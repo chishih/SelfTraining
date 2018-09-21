@@ -1,1 +1,1 @@
-# SelfTraining
+# Self Training
